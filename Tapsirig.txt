@@ -1,0 +1,13 @@
+1) C is related to imperative(procedural) paradigm.
+ C is used a lot in embedded hardware programming where resources are scarce. Linux kernel is written in C because, according to Linus Torvalds, C++ is a horrible language.
+ Benefits of C language is that as a middle level language, C combines the features of both high level and low level languages. It can be used for low-level programming, such as scripting for drivers and kernels and it also supports functions of high level programming languages, such as scripting for software applications etc.
+ Disadvantages of C Language are C programming language does not support Object Oriented Programming ( OOP ) features such as Inheritance , Encapsulation , Polymorphism etc , that's why C++ is developed , It has no strict type checking , For example , we can pass an integer value , It is for the floating data type .
+
+2) JavaScript is a multi-paradigm language. JavaScript is a mixture of Object Oriented, Functional and even imperative.
+ JavaScript is most commonly used as a client side scripting language. This means that JavaScript code is written into an HTML page. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do something with it.
+ Advantages of JavaScript are speed, being client-side, JavaScript is very fast because any code functions can be run immediately instead of having to contact the server and wait for an answer.
+ Disadvantages of Javascript Client-Side security and Browser support. Client-Side Security. Because the code executes on the users' computer, in some cases it can be exploited for malicious purposes. This is one reason some people choose to disable Javascript. Browser Support. JavaScript is sometimes interpreted differently by different browsers.	
+
+3) ASP.NET is an open-source server-side web application framework designed for web development to produce dynamic web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
+ Advantages of Asp.net are Built-in Windows authentication and per-application configuration keep your applications secured and ASP.NET reduces the line of code needed to develop large applications.
+ Disadvantages of Asp.net are undefined Application Architecture with lack of Separation of Concerns (SoC), complex Pages with Performance issues, lack of abstraction with least control over HTML, lack of abstraction with least control over HTML and learning difficulties.
